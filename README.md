@@ -24,4 +24,4 @@ This script aims to simplify the process of restarting or opening hardware monit
 
 3. Run the script:
    ```bash
-   python script.py
+   python SWRestart.py
